@@ -66,17 +66,21 @@ def sarsa(env,
 
 ## OUTPUT:
 
-Optimal policy
-
-<img width="376" height="89" alt="image" src="https://github.com/user-attachments/assets/c14a9aff-1ea2-4110-9ad8-5164671b7c8a" />
-
 Optimal value function
 
 <img width="335" height="596" alt="image" src="https://github.com/user-attachments/assets/d4f9c021-77c7-4594-8516-0c8ac03b3ce8" />
 
-Success rate for the optimal policy.
+Policy and Success rate for the optimal policy.
 
 <img width="554" height="110" alt="image" src="https://github.com/user-attachments/assets/d5c110b1-be9e-4681-bda3-8e40bd9c7c21" />
+
+SARSA value function
+
+<img width="1091" height="785" alt="image" src="https://github.com/user-attachments/assets/a5ad5780-492b-4c50-a397-42d79cd99ebf" />
+
+Policy and Success rate for SARSA
+
+<img width="746" height="140" alt="image" src="https://github.com/user-attachments/assets/e90766aa-64a7-4ecc-86aa-a1990ecd5471" />
 
 Comparison of the state value functions of Monte Carlo method and SARSA learning.
 
